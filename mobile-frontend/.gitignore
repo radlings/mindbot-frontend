@@ -19,9 +19,21 @@ thumb
 sketch
 
 ### ReactNative ###
+
+# Expo generated
+node_modules/**/*
+.expo/*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
 # React Native Stack Base
 
-.expo
 __generated__
 
 ### ReactNative.Node Stack ###
