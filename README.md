@@ -23,4 +23,4 @@ Invoke in the `mobile-frontend` subdirectory
 yarn start
 ```
 
-to serve the app in the Expo client.
+to start the local development server of Expo CLI and to serve the project in the Expo client.
