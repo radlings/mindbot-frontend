@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-cli": "^3.4.1",
+    "firebase": "^7.2.1"
+  }
+}
