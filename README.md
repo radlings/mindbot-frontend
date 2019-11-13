@@ -3,6 +3,9 @@ Using node version 10.16.3
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Download the redux devtools on chrome
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -69,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
