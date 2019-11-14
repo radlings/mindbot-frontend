@@ -10,7 +10,7 @@ function BoostView() {
         <div>
             <ViewTitle/>
             <ViewMessage/>
-            <Button/>
+            <Button data={"ddd"}/>
         </div>
     );
 }
