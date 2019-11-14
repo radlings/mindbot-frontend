@@ -1,4 +1,4 @@
-#RADlings project in the scope of DPS
+# RADlings project in the scope of DPS
 Using node version 10.16.3
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
